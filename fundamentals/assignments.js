@@ -16,7 +16,18 @@ console.log(population);
 /*
 let isIsland = false;
     isIsland = true;
-let lenguage = "Portuguse";
+let lenguage = "Portuguese";
+
+// correction 
+
+console.log(typeof isIsland);
+console.log(typeof population);
+console.log(typeof country);
+console.log(typeof language);
+
+let isIsland = false;
+
+let lenguage;
 
 console.log(isIsland, population, country, lenguage);
 
@@ -32,10 +43,26 @@ console.log(increase);
 
 // No, My country has less than 33M
 
+
+
 /* let description =
   "Portugal is in Europe, and its 11 million people speak portuguese";
 console.log(description);
  */
+
+/// Correction
+
+/* console.log(population /2);
+
+population++;
+
+console.log(population);
+console.log(population >6);
+console.log(population<33);
+
+const description = country + 'is in' + continent + ',and its' + population + 'million people speak' + language;
+
+console.log(description1); */
 /*LECTURE: Strings and Template Literals*/ 
 
 
